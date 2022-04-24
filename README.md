@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 ## Run laravel => php artisan serve
+#RESTful API with laravel
+[Live Demo](laravelapi.farukaydogan.com)
+This repo is a 100% functional RESTful API that handles for crud operations 
 
 ## About Laravel
 
