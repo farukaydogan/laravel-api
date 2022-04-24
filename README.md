@@ -8,7 +8,7 @@
 </p>
 ## Run laravel => php artisan serve
 #RESTful API with laravel
-[Live Demo](http://www.laravelapi.farukaydogan.com)
+##[LIVE DEMO](http://laravelapi.farukaydogan.com)
 This repo is a 100% functional RESTful API that handles for crud operations 
 
 ## About Laravel
